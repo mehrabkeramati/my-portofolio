@@ -108,9 +108,9 @@ h2 {
 .profile_image {
   width: 200px;
   height: fit-content;
-  vertical-align: middle;
-  margin: 10px;
-  border-radius: 5px;
+  vertical-align: left;
+  margin: 15px;
+  border-radius: 10px;
 }
 
 /* Skills */
